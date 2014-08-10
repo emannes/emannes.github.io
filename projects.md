@@ -14,7 +14,7 @@ In Spring 2014, I took 6.857 (Computer and Network Security), taught by Ron Rive
 
 I'm an administrator and teacher for the [MIT Educational Studies Program (ESP)](http://esp.mit.edu), a student group at MIT. ESP organizes programs in which college students teach middle- and high-school students about anything.
 
-I co-directed Splash 2013 for ESP.  During Splash, over 2600 high-school students came to the MIT campus for a weekend to attend over 700 classes taught by over 500 volunteers about [almost anything](https://esp.mit.edu/learn/Splash/2013/catalog). I made policy decisions and led a team of over 30 administrators and over 600 day-of volunteers.
+I co-directed Splash 2013 for ESP.  During Splash, around 2600 high-school students came to the MIT campus for a weekend to attend about 700 classes taught by over 500 volunteers about [almost anything](https://esp.mit.edu/learn/Splash/2013/catalog). I made policy decisions and led a team of over 30 administrators and 600 day-of volunteers.
 
 I've taught ESP classes on math, puzzle hunts, cognitive biases, and beef.
 
