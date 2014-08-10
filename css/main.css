@@ -103,12 +103,12 @@ header {
 
 body {
     font-family: 'PT Serif', serif;
-    padding-bottom: 75px;
+    margin: 0px 6px;
 }
 
 #main {
-    width: 700px;
-    margin: 0 auto;
+    max-width: 640px;
+    margin: 0px auto;
 }
 
 /* ==========================================================================
