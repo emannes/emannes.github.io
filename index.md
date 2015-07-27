@@ -6,6 +6,16 @@ permalink: /
 
 ## About Me ##
 
-I'm a junior at the Massachusetts Institute of Technology, majoring in math.  I like computer science, with a focus on algorithms, data structures, and security. I grew up in New York City. This summer, I was a trading intern at Jane Street Capital. You can read [my resume](/files/resume.pdf) or about [some stuff I've done](/projects/). 
 
-I'm involved in several student groups at MIT. I directed Splash 2013, a weekend-long educational program for 2700 high school students, for [MIT ESP](http://esp.mit.edu/). I've been participating in the [MIT Mystery Hunt](http://web.mit.edu/puzzle/www/) since 2010, on the winning team in 2012 and 2014 and on the writing team for 2013 and 2015. I'm also the Master Carver (president) of [mitBEEF](http://web.mit.edu/mitbeef/), MIT's beef appreciation club.
+I'm a senior at the Massachusetts Institute of Technology, majoring in math. At the moment, I'm interning at [Asana](https://www.asana.com), where I've been working on the Stability & Security and LunaUI teams.
+
+I've also:
+
+* grown up in New York City and graduated from Hunter College High School
+- worked at [Jane Street Capital](http://www.janestreet.com) as a trading intern
+- directed [Splash! 2013](http://esp.mit.edu/learn/Splash/2013/catalog), a weekend-long educational program for 2600 high school students
+- lived in and been co-president of [Random Hall](http://web.mit.edu/random-hall/www/)
+- enjoyed solving puzzles and been on the winning [MIT Mystery Hunt](http://web.mit.edu/puzzle/www/) team in 2012 and 2014
+- been Master Carver (president) of [mitBEEF](http://web.mit.edu/mitbeef/www/), MIT's beef appreciation club.
+
+ You can read [my resume](/files/resume.pdf) or about [some stuff I've done](/projects/). 
