@@ -300,3 +300,103 @@ body {
         page-break-after: avoid;
     }
 }
+/* copied from https://github.com/benjaminjkraft/benjaminjkraft.github.io/blob/master/css/main.css. Thanks, Ben. */
+/* list of posts */
+
+ul.posts, .posts li {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.post-block, .posts li {
+    margin: 0px auto;
+    max-width: 90%;
+}
+
+.posts a {
+    color: #333;
+}
+
+div.post-date {
+    display: inline-block;
+    margin: 0px;
+    margin-right: 10px;
+    margin-left: auto;
+    max-width: 10%;
+    vertical-align: top;
+    text-align: right;
+    color: #aaa;
+}
+
+.post-excerpt {
+    display: inline-block;
+    margin: 0px;
+    margin-left: auto;
+    max-width: 85%;
+}
+
+.post-excerpt :first-child {
+    margin-top: 0px;
+}
+
+.post-excerpt :last-child {
+    margin-bottom: 0px;
+}
+
+div.post-block {
+    cursor: pointer;
+}
+
+div.post-excerpt div.footnotes {
+    display: none;
+}
+
+div.post-excerpt sup[id^=fnref] {
+    display: none;
+}
+
+/* individual post */
+
+div.post-wrapper {
+    max-width: 90%;
+    margin: 0px auto;
+}
+
+div.post-meta {
+    display: inline-block;
+}
+
+article.post-content {
+    display: inline-block;
+    max-width: 85%;
+}
+
+article.post-content > p > img {
+    /* images in posts not in any other markup */
+    width: 95%;
+    margin: 0px auto;
+}
+
+article.post-content > p > img.half-width {
+    width: 45%;
+}
+
+div.post-meta {
+    display: inline-block;
+    margin: 0px;
+    margin-right: 10px;
+    margin-left: auto;
+    max-width: 10%;
+    vertical-align: top;
+    text-align: right;
+    color: #aaa;
+}
+
+article > :first-child {
+    margin-top: 0px;
+}
+
+div.footnotes {
+    border-top: 1px solid #bbb;
+}

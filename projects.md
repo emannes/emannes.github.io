@@ -48,7 +48,9 @@ coordinated our teachers and over 100 day-of volunteers.
 I've taught ESP classes on math, puzzle hunts, cognitive biases,
 computer security, and beef.
 
-### I-HELP Liberia ### During the summer of 2013, I went to Liberia
+### I-HELP Liberia ###
+
+During the summer of 2013, I went to Liberia
 for two weeks with the [I-HELP Liberia
 Project](http://ihelpliberia.org). We developed and taught a teacher
 training program for 80 high-school math and science teachers in
@@ -68,6 +70,7 @@ and was featured in
 2014, my new team (One Fish, Two Fish, Random Fish, Blue Fish) won; we
 wrote the 2015 hunt.
 
-### zScore ### I helped my friends write
-[zScore](http://zscore.mit.edu), a website that lets you compete with
+### zScore ###
+I helped my friends write
+[zScore](https://zscore.benkraft.org), a website that lets you compete with
 others to get the most sleep. It's kind of ugly, though.
