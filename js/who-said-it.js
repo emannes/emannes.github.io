@@ -85,9 +85,7 @@ Vue.component('quiz-question', {
     template : `
 <div>
 <div class='question-prompt'>
-<blockquote>
-<p> {{question.short}} </p>
-</blockquote>
+<blockquote><p>{{question.short}}</p></blockquote>
 </div>
 <quiz-buttons
 v-bind:answer='question.answer'
