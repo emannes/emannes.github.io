@@ -300,6 +300,16 @@ body {
         page-break-after: avoid;
     }
 }
+
+/* border-box sizing everywhere */
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
 /* copied from https://github.com/benjaminjkraft/benjaminjkraft.github.io/blob/master/css/main.css. Thanks, Ben. */
 /* list of posts */
 
